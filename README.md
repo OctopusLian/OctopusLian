@@ -1,5 +1,31 @@
 # Hi there,I'm [Neo Zhang](https://octopuslian.github.io/) 👋  
 
+<a href="https://octopuslian.github.io/">
+  <img align="left" alt="Neo's Blog | Blog" width="20px" src="https://raw.githubusercontent.com/OctopusLian/OctopusLian/master/assets/blog.svg" />
+</a>
+<a href="https://www.cnblogs.com/OctoptusLian/">
+  <img align="left" alt="Neo's Blog | Bokeyuan" width="21px" src="https://raw.githubusercontent.com/OctopusLian/OctopusLian/master/assets/Bokeyuan.svg" />
+</a>
+<a href="https://www.douban.com/people/neo-zhang/">
+  <img align="left" alt="Neo's Douban | Douban" width="20px" src="https://raw.githubusercontent.com/OctopusLian/OctopusLian/master/assets/douban.svg" />
+</a>
+<a href="https://www.jianshu.com/u/d2d8986d96aa">
+  <img align="left" alt="Neo's Jianshu | Jianshu" width="21px" src="https://raw.githubusercontent.com/OctopusLian/OctopusLian/master/assets/jianshu.svg" />
+</a>
+<a href="https://leetcode-cn.com/u/zoctopus_zhang/">
+  <img align="left" alt="Neo's LeetCode-cn | LeetCode-cn" width="20px" src="https://raw.githubusercontent.com/OctopusLian/OctopusLian/master/assets/leetcode-cn.svg" />
+</a>
+<a href="https://www.linkedin.com/in/%E5%BF%B5%E5%BF%B5-neo-zhang-%E5%BC%A0-2a9620173/">
+  <img align="left" alt="Neo's LinkedIn | Linkedin" width="21px" src="https://raw.githubusercontent.com/OctopusLian/OctopusLian/master/assets/Linkedin.svg" />
+</a>
+<a href="zoctopus@qq.com">
+  <img align="left" alt="Neo's QQEmail | QQEmail" width="20px" src="https://raw.githubusercontent.com/OctopusLian/OctopusLian/master/assets/QQemail.svg" />
+</a>
+
+
+<br />
+<br />
+
 ## 😄 About Me  
 
 Hi, I'm Neo Zhang(Chinese name is Niannian Zhang), a loves programming back-end development engineer from China.  
@@ -32,11 +58,20 @@ Hi, I'm Neo Zhang(Chinese name is Niannian Zhang), a loves programming back-end 
 
 <a href="https://github.com/OctopusLian/leetcode-solutions">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=OctopusLian&repo=github-leetcode-solutions&theme=material-palenight" />
-</a>    
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=OctopusLian&repo=leetcode-solutions&theme=material-palenight" />
+</a>
 <a href="https://github.com/OctopusLian/octopuslian.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=OctopusLian&repo=octopuslian.github.io&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/OctopusLian/lintcode-solutions">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=OctopusLian&repo=lintcode-solutions&theme=material-palenight" />
+</a>
+<a href="https://github.com/OctopusLian/nowcoder-solutions">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=OctopusLian&repo=nowcoder-solutions&theme=material-palenight" />
 </a>
 
 <!--
