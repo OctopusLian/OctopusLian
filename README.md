@@ -19,7 +19,7 @@
   <img align="left" alt="Neo's LinkedIn | Linkedin" width="21px" src="./asserts/Linkedin.svg" />
 </a>
 <a href="zoctopus@qq.com">
-  <img align="left" alt="Neo's QQEmail | QQEmail" width="20px" src="./asserts/QQemail.svg" />
+  <img align="left" alt="Neo's QQEmail | QQEmail" width="20px" src="./asserts/QQmail.svg" />
 </a>
 
 
@@ -44,17 +44,6 @@ Hi, I'm Neo Zhang(Chinese name is Niannian Zhang), a loves programming back-end 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-## 📫 Account  
-
-- [LinkedIn](https://www.linkedin.com/in/%E5%BF%B5%E5%BF%B5-neo-zhang-%E5%BC%A0-2a9620173/)  
-- [LeetCode-CN](https://leetcode-cn.com/u/zoctopus_zhang/)  
-- Email: zoctopus@qq.com  
-
-## My Blog  
-
-- [不会飞的章鱼_博客园](https://www.cnblogs.com/OctoptusLian/)  
-- [不会飞的章鱼_简书](https://www.jianshu.com/u/d2d8986d96aa)  
-- [以写作调身心_Doing](https://octopuslian.github.io/)  
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
 
@@ -82,6 +71,10 @@ Hi, I'm Neo Zhang(Chinese name is Niannian Zhang), a loves programming back-end 
 <a href="https://github.com/OctopusLian/nowcoder-solutions">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=OctopusLian&repo=nowcoder-solutions&theme=material-palenight" />
+</a>
+<a href="https://github.com/OctopusLian/Coursera-Sedgewick-Algorithms">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=OctopusLian&repo=Coursera-Sedgewick-Algorithms&theme=material-palenight" />
 </a>
 
 <!--
