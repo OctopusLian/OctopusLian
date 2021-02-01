@@ -1,25 +1,25 @@
 # Hi there,I'm [Neo Zhang](https://octopuslian.github.io/) 👋  
 
 <a href="https://octopuslian.github.io/">
-  <img align="left" alt="Neo's Blog | Blog" width="20px" src="https://raw.githubusercontent.com/OctopusLian/OctopusLian/master/assets/blog.svg" />
+  <img align="left" alt="Neo's Blog | Blog" width="20px" src="./asserts/blog.svg" />
 </a>
 <a href="https://www.cnblogs.com/OctoptusLian/">
-  <img align="left" alt="Neo's Blog | Bokeyuan" width="21px" src="https://raw.githubusercontent.com/OctopusLian/OctopusLian/master/assets/Bokeyuan.svg" />
+  <img align="left" alt="Neo's Blog | Bokeyuan" width="21px" src="./asserts/bokeyuan.svg" />
 </a>
 <a href="https://www.douban.com/people/neo-zhang/">
-  <img align="left" alt="Neo's Douban | Douban" width="20px" src="https://raw.githubusercontent.com/OctopusLian/OctopusLian/master/assets/douban.svg" />
+  <img align="left" alt="Neo's Douban | Douban" width="20px" src="./asserts/douban.svg" />
 </a>
 <a href="https://www.jianshu.com/u/d2d8986d96aa">
-  <img align="left" alt="Neo's Jianshu | Jianshu" width="21px" src="https://raw.githubusercontent.com/OctopusLian/OctopusLian/master/assets/jianshu.svg" />
+  <img align="left" alt="Neo's Jianshu | Jianshu" width="21px" src="./asserts/jianshu.svg" />
 </a>
 <a href="https://leetcode-cn.com/u/zoctopus_zhang/">
-  <img align="left" alt="Neo's LeetCode-cn | LeetCode-cn" width="20px" src="https://raw.githubusercontent.com/OctopusLian/OctopusLian/master/assets/leetcode-cn.svg" />
+  <img align="left" alt="Neo's LeetCode-cn | LeetCode-cn" width="20px" src="./asserts/leetcode-cn.svg" />
 </a>
 <a href="https://www.linkedin.com/in/%E5%BF%B5%E5%BF%B5-neo-zhang-%E5%BC%A0-2a9620173/">
-  <img align="left" alt="Neo's LinkedIn | Linkedin" width="21px" src="https://raw.githubusercontent.com/OctopusLian/OctopusLian/master/assets/Linkedin.svg" />
+  <img align="left" alt="Neo's LinkedIn | Linkedin" width="21px" src="./asserts/Linkedin.svg" />
 </a>
 <a href="zoctopus@qq.com">
-  <img align="left" alt="Neo's QQEmail | QQEmail" width="20px" src="https://raw.githubusercontent.com/OctopusLian/OctopusLian/master/assets/QQemail.svg" />
+  <img align="left" alt="Neo's QQEmail | QQEmail" width="20px" src="./asserts/QQemail.svg" />
 </a>
 
 
@@ -36,6 +36,14 @@ Hi, I'm Neo Zhang(Chinese name is Niannian Zhang), a loves programming back-end 
 - 🤔 I’m looking for help with who can help me push the big factories in China and abroad, thank you very much  
 - 💬 Ask me about anything [here](https://github.com/OctopusLian/OctopusLian)  
 
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
 ## 📫 Account  
 
 - [LinkedIn](https://www.linkedin.com/in/%E5%BF%B5%E5%BF%B5-neo-zhang-%E5%BC%A0-2a9620173/)  
@@ -47,6 +55,8 @@ Hi, I'm Neo Zhang(Chinese name is Niannian Zhang), a loves programming back-end 
 - [不会飞的章鱼_博客园](https://www.cnblogs.com/OctoptusLian/)  
 - [不会飞的章鱼_简书](https://www.jianshu.com/u/d2d8986d96aa)  
 - [以写作调身心_Doing](https://octopuslian.github.io/)  
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=OctopusLian&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Neo Zhang's github stats" />
