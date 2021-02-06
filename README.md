@@ -15,6 +15,9 @@
 <a href="https://leetcode-cn.com/u/zoctopus_zhang/">
   <img align="left" alt="Neo's LeetCode-cn | LeetCode-cn" width="20px" src="./asserts/leetcode-cn.svg" />
 </a>
+<a href="https://leetcode.com/zoctopus-zhang/">
+  <img align="left" alt="Neo's LeetCode | LeetCode" width="20px" src="./asserts/leetcode.svg" />
+</a>
 <a href="https://www.linkedin.com/in/%E5%BF%B5%E5%BF%B5-neo-zhang-%E5%BC%A0-2a9620173/">
   <img align="left" alt="Neo's LinkedIn | Linkedin" width="21px" src="./asserts/Linkedin.svg" />
 </a>
