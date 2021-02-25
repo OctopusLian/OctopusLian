@@ -72,16 +72,15 @@ Hi, I'm Neo Zhang(Chinese name is Niannian Zhang), a loves programming back-end 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=OctopusLian&repo=lintcode-solutions&theme=material-palenight" />
 </a>
+
 <a href="https://github.com/OctopusLian/nowcoder-solutions">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=OctopusLian&repo=nowcoder-solutions&theme=material-palenight" />
 </a>
+
 <a href="https://github.com/OctopusLian/Coursera-Sedgewick-Algorithms">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=OctopusLian&repo=Coursera-Sedgewick-Algorithms&theme=material-palenight" />
-</a>
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=OctopusLian&repo=shiyanlou-solutions&theme=material-palenight" />
 </a>
 
 <!--
