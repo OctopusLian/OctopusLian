@@ -33,9 +33,9 @@
 
 Hi, I'm Neo Zhang(Chinese name is Niannian Zhang), a loves programming back-end development engineer from China.  
 
-- 🔭 I’m currently working on [Coursera-Sedgewick-Algorithms](https://github.com/OctopusLian/Coursera-Sedgewick-Algorithms)  
-- 🌱 I’m currently learning algorithms and golang  
-- 👯 I’m looking to receive a back-end development offer from a big factory in the spring recruitment or pass the Chinese graduate entrance examination  
+- 🔭 I’m currently working on back-end development and system design  
+- 🌱 I’m currently learning algorithms and golang principle  
+- 👯 I’m looking to receive a back-end development offer from a big factory  
 - 🤔 I’m looking for help with who can help me push the big factories in China and abroad, thank you very much  
 - 💬 Ask me about anything [here](https://github.com/OctopusLian/OctopusLian)  
 
@@ -59,29 +59,12 @@ Hi, I'm Neo Zhang(Chinese name is Niannian Zhang), a loves programming back-end 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=OctopusLian&layout=compact&theme=material-palenight" />
 </a>
 
-<a href="https://github.com/OctopusLian/leetcode-solutions">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=OctopusLian&repo=leetcode-solutions&theme=material-palenight" />
-</a>
+
 <a href="https://github.com/OctopusLian/octopuslian.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=OctopusLian&repo=octopuslian.github.io&theme=material-palenight" />
 </a>
 
-<a href="https://github.com/OctopusLian/lintcode-solutions">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=OctopusLian&repo=lintcode-solutions&theme=material-palenight" />
-</a>
-
-<a href="https://github.com/OctopusLian/nowcoder-solutions">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=OctopusLian&repo=nowcoder-solutions&theme=material-palenight" />
-</a>
-
-<a href="https://github.com/OctopusLian/Coursera-Sedgewick-Algorithms">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=OctopusLian&repo=Coursera-Sedgewick-Algorithms&theme=material-palenight" />
-</a>
 
 <!--
 **OctopusLian/OctopusLian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
