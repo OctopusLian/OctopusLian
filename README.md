@@ -11,11 +11,9 @@ Hi, I'm Neo Zhang, a loves programming back-end development engineer from China.
 **Languages and Tools:**  
 
 <code><img height="20" src="./asserts/golang.png"></code>
-<code><img height="20" src="./asserts/cpp.png"></code>
 <code><img height="20" src="./asserts/Java.png"></code>
 <code><img height="20" src="./asserts/python.png"></code>
 <code><img height="20" src="./asserts/vscode.png"></code>
-<code><img height="20" src="./asserts/visualstudio.png"></code>
 
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
