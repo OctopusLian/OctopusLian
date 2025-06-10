@@ -2,10 +2,8 @@
 
 ## 😄 About Me  
 
-Hi, I'm Neo Zhang, a loves programming back-end development engineer from China.  
+Hi, I'm Neo Zhang, a senior software engineer from China.  
 
-- 🌱 I’m currently learning english and improve programming skills  
-- 👯 I’m looking to receive a work remote offer  
 - 💬 Ask me about anything [here](https://github.com/OctopusLian/OctopusLian)  
 
 **Languages and Tools:**  
